@@ -1,4 +1,4 @@
 variable "message" {
   description = "Output message"
-  default     = "Hello module world"
+  default     = "Hello module worldTHIS IS NEW!"
 }
